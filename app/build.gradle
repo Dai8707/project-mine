@@ -5,11 +5,11 @@ plugins {
 
 android {
     namespace 'com.modularhub.feature.mine.standalone'
-    compileSdk 35
+    compileSdk 36
     defaultConfig {
         applicationId 'com.modularhub.feature.mine.standalone'
         minSdk 24
-        targetSdk 35
+        targetSdk 36
         versionCode 1
         versionName '1.0.0'
     }
